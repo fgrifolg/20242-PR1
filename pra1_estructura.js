@@ -5,7 +5,6 @@ class Film {
 
     //Getters y setters
 
-
 }
 
 class FilmList {
